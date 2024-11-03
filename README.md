@@ -9,7 +9,7 @@ This script can download videos in any resoloution, and get the video's subtitle
 It can also download only the audio of the video, and a playlist, although it may fail as it gets detected as a bot.
 
 # Download
-There are some compiled exe files for use, one with the console and one without. to setup, you will have to download ffmpeg from (here)[https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z].
+There are some compiled exe files for use, one with the console and one without. to setup, you will have to download ffmpeg from [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z).
 Extract the "ffmpeg" file from the zip and put it into your C: drive, and then run this command:
 `setx /m PATH "C:\ffmpeg\bin;%PATH%"`
 The exe should now run, but the GUI will look awful, but that will be improved upon in later versions
